@@ -12,6 +12,15 @@
 
 ## 17.10.2025
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mit einem Projekt angefangen, das Zitate anzeigt. Bei meinem Projekt soll man Zitate suchen können und der Autor/Sprecher wird angezeigt. Es soll eine Web-App sein. (50-100 Wörter)
 
-## 
+## 24.10.2025
+
+- [ ] Weiter das Layout zuerst machen (Frontend)
+- [ ] Layout
+- [ ] Layout
+- [ ] Anfangen, an der Logik zu arbeiten, falls mit Layout schon fertig
+
+# 31.10.2025
+      
+
