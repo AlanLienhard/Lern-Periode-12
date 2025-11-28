@@ -50,11 +50,17 @@ Ich habe im Rahmen des ILA nicht Grid abschliessen können, da es zu viel ist f�
 
 ## 21.11.2025
 
-- [ ] Daten richtig hinzufügen (als .JSON) und diese einlesen
-- [ ] Stationen zeichnen lassen
-- [ ] Stationen je nach Faktion anders einfärben
-- [ ] Anfangen, Tunnel zu zeichnen (Verbindung zwischen Stationen). Jeder Tunnel hat auch seine eigenen Attribute (z.B. Schwierigkeit/Gefahr, blockiert oder nicht).
+- [x] Daten richtig hinzufügen (als .JSON) und diese einlesen
+- [x] Stationen zeichnen lassen
+- [x] Stationen je nach Faktion anders einfärben
+- [x] Anfangen, Tunnel zu zeichnen (Verbindung zwischen Stationen). Jeder Tunnel hat auch seine eigenen Attribute (z.B. Schwierigkeit/Gefahr, blockiert oder nicht).
+      
+Ich konnte heute die ersten drei Ziele richtig umsetzen (zuerst auf kleiner Masse/"scale", weil mir die Funktionalität wichtiger ist und Priorität hat), konnte es aber noch nicht schaffen, dass die Tunnels sichtbar sind.
 
 ##  28.11.2025
 
+- [ ] Versuchen, Tunnels richtig zeichnen zu lassen
+- [ ] Tunnel zeichnen
+- [ ] Tunnel
+- [ ] Alle Stationen hinzufügen, zeichnen und relativ zu einander positionieren
 
