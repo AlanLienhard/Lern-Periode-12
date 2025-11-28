@@ -16,11 +16,33 @@
 
 ## 24.10.2025
 
-- [ ] Weiter das Layout zuerst machen (Frontend)
-- [ ] Layout
-- [ ] Layout
+- [x] Weiter das Layout zuerst machen (Frontend)
+- [x] Layout
+- [x] Layout
 - [ ] Anfangen, an der Logik zu arbeiten, falls mit Layout schon fertig
+
+Ich habe heute am Layout der Website zuerst gearbeitet, da ich schon lange keine Layouts mit CSS gemacht habe, bin ich ein wenig "eingerostet" mit Flexbox und habe somit länger gebraucht, als geplant.
 
 # 31.10.2025
       
+- [x] Layout "abschliessen" (im Verlaufe kommen dann sicherlich noch Änderungen)
+- [x] Daten hinzufügen und Suchfunktion machen
+- [x] Suchfunktion arbeiten
+
+Ich bin soweit mit dem Layout zufrieden und habe dann angefangen, an der Logik zu arbeiten, bin aber noch nicht fertig. Ich möchte es auch noch machen, dass man als Benutzer selber Zitate hinzufügen kann.
+
+## 07.11.2025
+
+- [x] Logik hinzufügen, wo man Zitate selbst hinzufügen kann
+- [x] Logik
+- [x] Logik
+
+Ich konnte die Logik ohne viele Probleme hinzufügen, und würde sagen, dass ich fertig bin dem Projekt. Bevor ich mit dem nächsten Projekt beginne, möchte ich noch mittels dem "The Odin Project" in CSS Grid lernen und damit Layouts machen, da ich es eine gute Lernressource/Guide finde und Grid richtig verstehen möchte. Als nächstes Projekt, möchte ich eine interaktive Karte des Metrosystems der fiktiven Geschichte "Metro 2033" machen.
+
+## 14.11.2025
+
+- [ ] The Odin Project Grid
+- [ ] The Odin Project Grid
+- [ ] Metro 2033 Map anfangen
+- [ ] Metro 2033 Map
 
