@@ -41,8 +41,20 @@ Ich konnte die Logik ohne viele Probleme hinzufügen, und würde sagen, dass ich
 
 ## 14.11.2025
 
-- [ ] The Odin Project Grid
-- [ ] The Odin Project Grid
-- [ ] Metro 2033 Map anfangen
-- [ ] Metro 2033 Map
+- [x] The Odin Project Grid
+- [x] The Odin Project Grid
+- [x] Metro 2033 Map anfangen
+- [x] Metro 2033 Map
+
+Ich habe im Rahmen des ILA nicht Grid abschliessen können, da es zu viel ist für 2 APs, habe aber noch in meiner Freizeit daran gearbeitet. Ich habe mit der Metro Map angefangen und werde die Karte mit D3.js zeichnen, es ist aber komplizierter, als ich es gedacht habe. In der Zeit fürs Projekt, habe ich hauptsächlich recherchiert, wie ich das machen werde.
+
+## 21.11.2025
+
+- [ ] Daten richtig hinzufügen (als .JSON) und diese einlesen
+- [ ] Stationen zeichnen lassen
+- [ ] Stationen je nach Faktion anders einfärben
+- [ ] Anfangen, Tunnel zu zeichnen (Verbindung zwischen Stationen). Jeder Tunnel hat auch seine eigenen Attribute (z.B. Schwierigkeit/Gefahr, blockiert oder nicht).
+
+##  28.11.2025
+
 
